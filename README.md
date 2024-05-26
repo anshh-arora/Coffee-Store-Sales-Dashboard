@@ -37,6 +37,9 @@ Ensure you have the following software installed:
 - Download the project zip file from the repository.
 - Extract the contents of the zip file to a directory on your computer.
 
+## Dashboard Preview
+![Coffee Store Sales Dashboard](https://github.com/anshh-arora/Coffee-Store-Sales-Dashboard/blob/main/Coffe_shop_sale_Dashboard.png)
+
  ## Contact Information
 
 For any questions or feedback, feel free to reach out:
