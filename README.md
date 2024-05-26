@@ -2,6 +2,9 @@
 
 Welcome to the Coffee Store Sales Dashboard project! This project is designed to visualize sales data for a coffee shop using Excel. The data used for this project is collected from Kaggle and provides insights into various aspects of the business, such as sales trends, customer footfall, and product popularity.
 
+## Dashboard Preview
+![Coffee Store Sales Dashboard](https://github.com/anshh-arora/Coffee-Store-Sales-Dashboard/blob/main/Coffe_shop_sale_Dashboard.png)
+
 ## Table of Contents
 - Overview
 - Features
@@ -37,8 +40,7 @@ Ensure you have the following software installed:
 - Download the project zip file from the repository.
 - Extract the contents of the zip file to a directory on your computer.
 
-## Dashboard Preview
-![Coffee Store Sales Dashboard](https://github.com/anshh-arora/Coffee-Store-Sales-Dashboard/blob/main/Coffe_shop_sale_Dashboard.png)
+
 
  ## Contact Information
 
